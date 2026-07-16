@@ -1,0 +1,8 @@
+{
+  "name": "Remix: UtylitiRaw",
+  "description": "A comprehensive, high-performance developer utility suite for raw data processing, formatting, encoding, hashing, hex-dumping, and text inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
